@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 # new-repo
 
 This is line
