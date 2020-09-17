@@ -1,3 +1,4 @@
+REMOTE
 # new-repo
 
 This is line
